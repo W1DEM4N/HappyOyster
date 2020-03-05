@@ -12,7 +12,7 @@ public class HelloServlet extends HttpServlet{
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		resp.getWriter().write("My best friend is a crab called Leonardo Da Pinci");
-		super.doGet(req, resp);
+		//super.doGet(req, resp);
 	}
 	
 }
