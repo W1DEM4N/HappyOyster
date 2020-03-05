@@ -3,7 +3,7 @@
   <display-name>HappyOyster</display-name>
   <servlet>
   	<servlet-name>hello</servlet-name>
-  	<servlet-class>com.christoher.servlet.HelloServlet</servlet-class>
+  	<servlet-class>com.christopher.servlet.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>hello</servlet-name>
